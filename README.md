@@ -3,8 +3,8 @@
 ![alt text](https://media.giphy.com/media/nGMnDqebzDcfm/source.gif)
 ## 1. Box model basics
 
-+ [Box model](https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/The_box_model)
-+ [Box model](https://tproger.ru/translations/css-box-model/)
++ [Box model-1](https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/The_box_model)
++ [Box model-2](https://tproger.ru/translations/css-box-model/)
 ## 2. Colors and fonts
 
 + [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
